@@ -7,40 +7,15 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="lorem_ipsum">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
-        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
-        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
-        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
-        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
-        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
-        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
-        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
-        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
-        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
-        bibendum, vel congue leo egestas.\n\n
-        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
-        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
-        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
-        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
-        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
-        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
-        est.\n\n
-        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
-        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
-        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
-        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
-        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
-        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
-        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
-        convallis.\n\n
-        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
-        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
-        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
-        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
-        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
-        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
-        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    <string name="lorem_ipsum_1">
+        As experiências acumuladas demonstram que a competitividade nas transações comerciais nos obriga à análise das condições financeiras e administrativas exigidas. O que temos que ter sempre em mente é que o aumento do diálogo entre os diferentes setores produtivos cumpre um papel essencial na formulação das condições inegavelmente apropriadas. Desta maneira, a consulta aos diversos militantes estimula a padronização do sistema de participação geral.
+        Por outro lado, o comprometimento entre as equipes auxilia a preparação e a composição das posturas dos órgãos dirigentes com relação às suas atribuições. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a mobilidade dos capitais internacionais promove a alavancagem dos níveis de motivação departamental. A prática cotidiana prova que a expansão dos mercados mundiais assume importantes posições no estabelecimento das direções preferenciais no sentido do progresso.
+        Caros amigos, a constante divulgação das informações facilita a criação de alternativas às soluções ortodoxas. Pensando mais a longo prazo, a consolidação das estruturas obstaculiza a apreciação da importância do orçamento setorial. No mundo atual, o fenômeno da Internet afeta positivamente a correta previsão do fluxo de informações. O incentivo ao avanço tecnológico, assim como a contínua expansão de nossa atividade apresenta tendências no sentido de aprovar a manutenção das formas de ação.
+    </string>
+
+    <string name="lorem_ipsum_2">
+        Pensando mais a longo prazo, a execução dos pontos do programa promove a alavancagem do processo de comunicação como um todo. Podemos já vislumbrar o modo pelo qual a necessidade de renovação processual estimula a padronização das condições inegavelmente apropriadas. Por conseguinte, a determinação clara de objetivos agrega valor ao estabelecimento de todos os recursos funcionais envolvidos. Acima de tudo, é fundamental ressaltar que a consolidação das estruturas exige a precisão e a definição dos conhecimentos estratégicos para atingir a excelência.
+        A prática cotidiana prova que a revolução dos costumes auxilia a preparação e a composição do sistema de participação geral. Todavia, a contínua expansão de nossa atividade facilita a criação das direções preferenciais no sentido do progresso. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a hegemonia do ambiente político prepara-nos para enfrentar situações atípicas decorrentes dos métodos utilizados na avaliação de resultados. O empenho em analisar o desenvolvimento contínuo de distintas formas de atuação acarreta um processo de reformulação e modernização das formas de ação. No entanto, não podemos esquecer que a consulta aos diversos militantes obstaculiza a apreciação da importância dos índices pretendidos.
+        O incentivo ao avanço tecnológico, assim como o início da atividade geral de formação de atitudes nos obriga à análise das diversas correntes de pensamento.
     </string>
 </resources>
